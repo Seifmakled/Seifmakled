@@ -1,8 +1,8 @@
-<h1 align="left">Hi! 👋 I'm Seif Makled:<br></h2>Hey there! I'am a passionate 2nd-year Computer Science student at MIU on a mission to turn innovative ideas into reality through code. Whether it's building robust systems or optimizing algorithms, I thrive at the intersection of logic and creativity.
+<h1 align="left">Hi! 👋 I'm Seif Makled<br></h2> <h4>Hey there! I'am a passionate 2nd-year Computer Science student at MIU on a mission to turn innovative ideas into reality through code. Whether it's building robust systems or optimizing algorithms, I thrive at the intersection of logic and creativity.</h4>
 
 ###
 
-<br clear="both">
+<br clear="both>
 
 <h2 align="left"> 📊 GitHub Stats: <br> </h2>
 <div align="left">
