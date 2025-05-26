@@ -2,7 +2,7 @@
 
 ###
 
-<br clear="both>
+<br clear="both">
 
 <h2 align="left"> 📊 GitHub Stats: <br> </h2>
 <div align="left">
