@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="left">Hi! 👋 I'm Seif Makled:<br></h2>Hey there! I'am a passionate 2nd-year Computer Science student at MIU on a mission to turn innovative ideas into reality through code. Whether it's building robust systems or optimizing algorithms, I thrive at the intersection of logic and creativity.
 
 ###
