@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Seif Makled
 
-I'm a [Your Year, e.g., "sophomore"] [Your Major, e.g., "Computer Science"] student passionate about [Your Interests]. Currently studying at [Your University], I'm excited to explore [Your Goals].
+Hey there! 👋 I'm Seif Makled, a passionate 2nd-year Computer Science student at MIU on a mission to turn innovative ideas into reality through code. Whether it's building robust systems or optimizing algorithms, I thrive at the intersection of logic and creativity. 
 
 ## **📊 GitHub Stats**
 ![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seifmakled&show_icons=true&theme=dark)
